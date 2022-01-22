@@ -1,8 +1,8 @@
-#My Profile
+# My Profile
 
 ---
 
-###Howdy, I'm @ThatMoldyBagel
+### Howdy, I'm @ThatMoldyBagel
 
 I make YouTube videos, music in my spare time, and am currently working on a mod for Teardown with @iaobardar
 
